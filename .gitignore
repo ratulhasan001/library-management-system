@@ -1,0 +1,7 @@
+# NetBeans build output (regenerated on every build)
+build/
+nbproject/private/
+
+# OS files
+.DS_Store
+Thumbs.db
