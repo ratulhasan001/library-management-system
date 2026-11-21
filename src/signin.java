@@ -141,8 +141,8 @@ public class signin extends javax.swing.JFrame {
         );
 
         //set icon to the jlebel
-        jLabel_email.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/images.png")));
-        jLabel_pass.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/pass.png")));
+        jLabel_email.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/email-icon.png")));
+        jLabel_pass.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/password-icon.png")));
 
         jLabel6.setFont(new java.awt.Font("Imprint MT Shadow", 1, 48)); // NOI18N
         jLabel6.setForeground(new java.awt.Color(153, 153, 255));

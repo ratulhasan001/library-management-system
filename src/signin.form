@@ -205,13 +205,13 @@
               <SubComponents>
                 <Component class="javax.swing.JLabel" name="jLabel_email">
                   <AuxValues>
-                    <AuxValue name="JavaCodeGenerator_AddingCodePost" type="java.lang.String" value="//set icon to the jlebel&#xa;jLabel_email.setIcon(new javax.swing.ImageIcon(getClass().getResource(&quot;/image/images.png&quot;)));"/>
+                    <AuxValue name="JavaCodeGenerator_AddingCodePost" type="java.lang.String" value="//set icon to the jlebel&#xa;jLabel_email.setIcon(new javax.swing.ImageIcon(getClass().getResource(&quot;/image/email-icon.png&quot;)));"/>
                     <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JLabel()"/>
                   </AuxValues>
                 </Component>
                 <Component class="javax.swing.JLabel" name="jLabel_pass">
                   <AuxValues>
-                    <AuxValue name="JavaCodeGenerator_AddingCodePost" type="java.lang.String" value="jLabel_pass.setIcon(new javax.swing.ImageIcon(getClass().getResource(&quot;/image/pass.png&quot;)));"/>
+                    <AuxValue name="JavaCodeGenerator_AddingCodePost" type="java.lang.String" value="jLabel_pass.setIcon(new javax.swing.ImageIcon(getClass().getResource(&quot;/image/password-icon.png&quot;)));"/>
                     <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JLabel()"/>
                   </AuxValues>
                 </Component>
