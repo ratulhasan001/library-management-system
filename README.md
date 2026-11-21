@@ -2,7 +2,7 @@
 
 A desktop library management application written in Java with a Swing GUI (designed in the NetBeans GUI builder) and a MySQL database accessed through JDBC. A librarian registers and signs in, then uses an admin panel to manage the catalogue (categories, authors, publishers, books), library members, and book issue, renewal, return and reservation, including an overdue fine on return. It was built as a team project for the course CSE-2218 Advanced Programming Sessional at BAUET (2024).
 
-Project report: [Ratul_Final_Project_Report_LMS.pdf](Ratul_Final_Project_Report_LMS.pdf) (also available as [.docx](Ratul_Final_Project_Report_LMS.docx)). It includes the use case, sequence, data flow and ER diagrams and screenshots of every screen.
+Project report: [docs/project-report.pdf](docs/project-report.pdf) (also available as [.docx](docs/project-report.docx)). It includes the use case, sequence, data flow and ER diagrams and screenshots of every screen.
 
 ## Features
 
@@ -44,10 +44,11 @@ library-management-system/
 │   ├── LibraryMS.jar        # Pre-built runnable jar (Main-Class: signin)
 │   └── lib/                 # Dependency jars referenced by LibraryMS.jar
 ├── nbproject/               # NetBeans project configuration
+├── docs/
+│   └── project-report.pdf / .docx
 ├── build.xml
 ├── jcalendar-1.4.jar
-├── mysql-connector-java-8.0.28.jar
-└── Ratul_Final_Project_Report_LMS.pdf / .docx
+└── mysql-connector-java-8.0.28.jar
 ```
 
 ## Getting started
